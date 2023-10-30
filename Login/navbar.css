@@ -1,0 +1,23 @@
+#navbar{
+    background-color: #05294c!important;
+    font-family: 'Yeon Sung' ;
+    padding: 13px, 14px;
+}
+#navbar ul{
+    background-color: #05294c!important;
+    display: flex;
+    flex-direction: row;
+     justify-content: center;
+    align-items: center;
+}
+#navbar li{
+    background-color: #05294c!important;
+    list-style: none;
+}
+#navbar li a{ 
+   text-decoration: none;
+    padding: 13px 20px;
+}
+#navbar li a:hover{
+    color: black;  
+}
